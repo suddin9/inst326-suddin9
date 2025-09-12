@@ -1,3 +1,8 @@
 This is a commmit example
 hiiiii
 testing 123
+This week I used AI to help with setting up github, I didn't know how to upload repository and I used chat gpt to figure out how to do it
+I asked Ai the clear definition of how to use Arithmetic and Expressions, I understood it and still need a lot more work with python.
+I asked chatgpt to show me examples, it's still a bit confusing but as I progress throught this semester it will get easier. 
+THis is the link to my chat gpt Chat explaning me how to use github and explain to me what Arithmetic and Expressions is 
+the link to the chatgpt: https://chatgpt.com/c/68c44ace-1a24-8322-91bb-adc6e816cdec
