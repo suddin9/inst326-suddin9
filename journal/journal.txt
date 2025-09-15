@@ -6,3 +6,14 @@ I asked Ai the clear definition of how to use Arithmetic and Expressions, I unde
 I asked chatgpt to show me examples, it's still a bit confusing but as I progress throught this semester it will get easier. 
 THis is the link to my chat gpt Chat explaning me how to use github and explain to me what Arithmetic and Expressions is 
 the link to the chatgpt: https://chatgpt.com/c/68c44ace-1a24-8322-91bb-adc6e816cdec
+
+
+week 2
+This week I used ChatGpt to better understand Exercise 2, I used it to exlplain to me what "If, Elif, Else".
+I had a basic understaning on it but I wanted it to explain it to me in a better and more clear way. 
+here is the link to my ChatGPT chat: https://chatgpt.com/c/68c8879d-e1b8-832d-b957-eef007baf618
+Takeaway:
+Understanding if, elif, and else is essential for controlling program flow.
+String insertion makes outputs dynamic and more readable.
+Practicing with examples reinforces learning and builds confidence.
+These basics form the foundation for more advanced Python programming.
