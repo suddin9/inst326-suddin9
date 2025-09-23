@@ -17,3 +17,19 @@ Understanding if, elif, and else is essential for controlling program flow.
 String insertion makes outputs dynamic and more readable.
 Practicing with examples reinforces learning and builds confidence.
 These basics form the foundation for more advanced Python programming.
+
+
+testing
+
+Week 3
+This week I used ChatGPT to better understand Python functions, return values, and
+string manipulation. I had a basic idea of what functions do, but I wanted a clearer
+explanation and examples of how to return values and work with multi-line formatted strings.
+https://chatgpt.com/c/68d308ea-729c-832e-a437-ee72a65fc520
+Takeaways:
+Functions are reusable blocks of code that help avoid duplication and make programs more organized.
+Return values let functions produce outputs that can be used elsewhere in the program.
+Strings are sequences of characters and can be manipulated with methods like .upper(), .strip(), and .split().
+Multi-line strings can be created using loops, f-strings, and \n to format outputs neatly.
+The zip() function allows iterating over multiple lists at once, which is helpful for aligning data in formatted outputs.
+
