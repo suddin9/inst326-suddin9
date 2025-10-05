@@ -33,3 +33,9 @@ Strings are sequences of characters and can be manipulated with methods like .up
 Multi-line strings can be created using loops, f-strings, and \n to format outputs neatly.
 The zip() function allows iterating over multiple lists at once, which is helpful for aligning data in formatted outputs.
 
+
+Week 4
+This week I used ChatGPT to understand Control flow: if statements, for/while loops
+I also had trouble with one of the assignment questions so I copied and pasted it into ChatGPT after I coded it to see what was wrong
+I asked it to to help me insted of give me the answer, I still coulnd't figure it out
+this is my link: https://chatgpt.com/c/68e1e434-3614-832d-9761-70c300104a71
