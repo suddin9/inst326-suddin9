@@ -46,5 +46,5 @@ This week i used Chatgpt to summarize a reading for my philosophy class
 chat: https://chatgpt.com/c/68e94627-8ba8-832b-a55b-c3cb5a335825
 
 Week 6
-This weel I used chatgpt to help me understand the topic of "Meta data" in one of my other calsses
+This week I used chatgpt to help me understand the topic of "Meta data" in one of my other calsses
 chat: https://chatgpt.com/c/68fae522-d428-832a-ac8b-bd75fa0aa5ac
