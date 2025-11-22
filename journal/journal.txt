@@ -58,3 +58,7 @@ This is the link to the chat: https://chatgpt.com/c/69115272-688c-8328-9b93-7feb
 
 Week 9: I used Chatgpt to see if a question on the week 9 exercise, 20) End-to-end scenario under ABC contract was correctly typed
 my chat: https://chatgpt.com/c/691518a1-0e30-8332-b2fb-00306c344988
+
+
+Week 10: I Used chat gpt to search up :how to work with SQL scripts for practice or assignments basically, how to open one script while using another script to answer questions
+this is my chat; https://chatgpt.com/c/692133a1-87d4-8333-95bb-5ecdf3a9ee4a
